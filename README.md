@@ -10,3 +10,6 @@ or find joining instructions here
 
 http://www.acgeospatial.co.uk/grsg-2018-python/
 
+associated blog post here
+
+http://www.acgeospatial.co.uk/python-workshop-at-grsg/
